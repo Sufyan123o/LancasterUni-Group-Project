@@ -151,7 +151,7 @@ public class MainWindow extends JFrame {
         // for block mode: shows prompt to allow user to pick what texture pack to load
         if (mode.equals("block")) {
             SwingUtilities.invokeLater(() -> {
-                String[] options = {"Import Texture Pack", "Use Default 1.21.5 Pack"};
+                String[] options = {"Import Texture Pack", "Use Default 1.21.7 Pack"};
                 int choice = JOptionPane.showOptionDialog(this,
                     "Would you like to import a texture pack or use the default pack?",
                     "Select Texture Pack",

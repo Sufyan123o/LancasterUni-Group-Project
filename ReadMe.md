@@ -50,6 +50,24 @@ MinedIt is a sophisticated pixel graphics editor specifically tailored for the M
 - Resource pack structure preservation
 - Default Minecraft 1.21.5 texture pack included
 
+## 📸 Screenshots
+
+### Main Menu
+![MinedIt Main Menu](screenshots/home.png)
+*The intuitive main menu offering three editing modes: Skin, Art, and Block editing*
+
+### Skin Editor
+![Skin Editor Interface](screenshots/skins.png)
+*Professional skin editing tools with pixel-perfect precision for Minecraft character customization*
+
+### Block Texture Editor
+![Block Texture Editor](screenshots/grassblock.png)
+*Advanced block texture editing with real-time preview and category organization*
+
+### Application Overview
+![Application Interface](screenshots/screenshot.png)
+*Complete editing environment showcasing the full feature set and user-friendly interface*
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -68,8 +86,6 @@ mvn clean compile
 # Run the application
 mvn exec:java
 ```
-
-
 
 ## 🎮 Usage Guide
 
@@ -131,6 +147,9 @@ As a core team member, I was responsible for:
 - **Recognition**: Outstanding implementation of complex requirements
 - **Innovation**: Novel approach to Minecraft-specific pixel editing
 
+![Final Grade Documentation](Documentation/final-grade.png)
+*Official grade documentation showing First Class achievement (76%)*
+
 ### Technical Accomplishments
 - **Cross-Platform Compatibility**: Runs on Windows, macOS, and Linux
 - **Performance Optimization**: Efficient memory usage and rendering
@@ -167,6 +186,7 @@ pixel-editor/
 - **Cloud Integration**: Online texture pack sharing platform
 - **Plugin System**: Third-party tool integration
 - **Version Control**: Built-in project versioning
+
 ---
 
 **MinedIt** - *Bringing professional pixel editing to the Minecraft community* 🎨⛏️
