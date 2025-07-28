@@ -1,0 +1,2 @@
+cd ./pixel-editor
+mvn clean compile exec:java
